@@ -1,6 +1,6 @@
 # My Stats220 Adventure :)
 
-This repo is made for all things stats 220, **enjoy!**
+This repo is made for all things I have designed in the university course, stats 220, **enjoy!**
   
 ## This repo will exbibit my r and css learning journey through:
 * Memes
