@@ -1,22 +1,16 @@
-# my stats220 adventure
+# My Stats220 Adventure :)
 
-well this repo is made for all things stats 220, **enjoy!**
-
-### reasons I *love* statistics:
-1. You can express creative ideas with code
-2. It is exciting to learn these concepts that are so critical in the modern world
-
-## another heading level 2 - if needed
-
-things i will be exhibiting in this repo:
+This repo is made for all things stats 220, **enjoy!**
+  
+## This repo will exbibit all my new r and css learning through:
 * memes
-* gifs 
+* gif
+* and all round, using code to express ideas in an aesthetic way!
 
-[what the website is](website link)
-![image description](link to image)
+## Three websites that sum up why I *love* statistics:
 
-#include
-* use of two different levels of headers
-* use of two different types of bullet points (ordered or unordered)
-* use of bold and italics
-* use of links to other websites
+1. [it gives you fun facts](https://cloudnine.com/ediscoverydaily/electronic-discovery/date-fun-facts-big-data-ediscovery-trends/#:~:text=Over%2090%25%20of%20all%20the,and%20reach%20the%20moon%20%E2%80%93%20twice.)
+2. [it's important in all life aspects](https://medium.com/@john_marsh7/10-awesome-reasons-why-statistics-are-important-96b87e283640)
+3. [it lets you be creative!](https://cran.r-project.org/web/packages/magick/vignettes/intro.html#Image_Vectors)
+
+![](https://web.stat.tamu.edu/~scottcrawford/other/teachingmemes/download.jpg) 
