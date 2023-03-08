@@ -2,10 +2,10 @@
 
 This repo is made for all things stats 220, **enjoy!**
   
-## This repo will exbibit all my new r and css learning through:
-* memes
-* gif
-* and all round, using code to express ideas in an aesthetic way!
+## This repo will exbibit my r and css learning journey through:
+* Memes
+* Gifs
+* An expression of my ideas in an asthetic way!
 
 ## Three websites that sum up why I *love* statistics:
 
